@@ -24,12 +24,12 @@ So I have two disorders which is called as *Autism Spectrum Disorder (ASD)*,
 and which is called as *Major depressive disorder* by clinical.
 
 And my two disorders makes hard problem to me about communications or managements to another people,
-*ASD* makes hard to I feel what another peoples are thinking and feeling,
+*ASD* makes difficult to I feel what another peoples are thinking and feeling,
 and *depression disorder* makes to I very tired by text-based communication to another people.
 
 I don't want to make trouble on GitHub or any places by my two diorders, Because I recpect to another peoples and developers.
-However, I have two disorders and problem of communications and these will makes to trouble of communicate to another people,
-So I think that I can only close to issue or communication channels on GitHub, And I decided it.
+However, I have two disorders and problem of communications, and these will makes to trouble of communicate to another people.
+So I think that I can just only close to issue or communication channels on GitHub, And I decided it.
 
 Questions and Answers
 ---------------------
@@ -47,5 +47,6 @@ and other projects about personal or experimental are putting on GitLab.
 
 History
 -------
-
+  
+  * 2019-01-08: Improved expression at Reason section.
   * 2019-01-06: First version
